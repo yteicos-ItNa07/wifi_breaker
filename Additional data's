@@ -1,0 +1,15 @@
+# WiFi Breaker
+
+WiFi Breaker is a tool designed to test the security of wireless networks. It integrates multiple functionalities including network scanning, handshake capturing, and password cracking.
+
+## Features
+- **Network Scanning**: Scans and collects information about nearby WiFi networks.
+- **Handshake Capturing**: Captures WiFi network handshakes for subsequent cracking.
+- **Password Cracking**: Attempts to obtain WiFi passwords using dictionary attacks or brute force.
+
+## Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yteicos-ItNa07/wifi_breaker.git
+   cd wifi_breaker
